@@ -24,7 +24,7 @@ Amy is a web-based software for analyzing medical information written by Back an
 6. بانک اطلاعات دارویی
 7. آنالیز هوشمند دارو های ژنریک با ژنریک
 8. آنالیز هوشمند داروی ها ژنریک با دارو های گیاهی
-9. آنالیز هوشمند آزمایشات پزشکی از فقط از روی برگه آزمایش و تجزیه تحلیل
+9.  آنالیز هوشمند آزمایشات پزشکی فقط از روی برگه آزمایش
 10. بانک اطالاعات بیماری ها
 11. تجزیه تحلیل ارایه دارو های پیشنهادی طبق آزمایشات
 12. تشخیص هوشمند بیماری ها با استفاده از جواب آزمایشات و علایم بالینی
@@ -37,12 +37,12 @@ Amy is a web-based software for analyzing medical information written by Back an
 3. Specialized doctoring of physicians 
 4. Automatic classification of physicians in different specialties 
 5. Specialized patient monitoring 6. Drug information bank 
-7. Intelligent analysis of generic drugs with generic 
-8. Intelligent drug analysis Generic with herbal medicines 
-9. Intelligent analysis of medical tests only from the test and analysis sheet 
+7. Intelligent analysis of generic drugs with generic (AI)
+8. Intelligent drug analysis Generic with herbal medicines (AI)
+9. Intelligent analysis of medical tests only from the test and analysis sheet (_ORC_)
 10. Disease information bank 
-11. Analysis of the proposed drugs according to tests 
-12. Intelligent diagnosis of diseases using test results and symptoms Clinical
+11. Analysis of the proposed drugs according to tests ( Deep Neural Network )
+12. Intelligent diagnosis of diseases using test results and symptoms Clinical (Deep Learning)
 
 
 
