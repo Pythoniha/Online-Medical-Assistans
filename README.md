@@ -1,4 +1,4 @@
-# **OMI**
+# **Online Medical Interactive**
 ## پروژه دستیار پزشک آنلاین
 
 ### **OMi  = Online Medical Interactive**
