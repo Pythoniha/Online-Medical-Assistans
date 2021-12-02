@@ -1,4 +1,5 @@
 # **Online Medical Interactive**
+[link](https://github.com/Pythoniha/OMI/blob/main/index.png)
 # **Online Medical Assistant**
 ## پروژه دستیار پزشک آنلاین
 
