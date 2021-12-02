@@ -36,9 +36,9 @@ Amy is a web-based software for analyzing medical information written by Back an
 2. Possibility of doctor-patient communication 
 3. Specialized doctoring of physicians 
 4. Automatic classification of physicians in different specialties 
-5. Specialized patient monitoring 6. Drug information bank 
-7. Intelligent analysis of generic drugs with generic (AI)
-8. Intelligent drug analysis Generic with herbal medicines (AI)
+5. Specialized patient monitoring 6. Drug information Bank ( Dash - Seaborn - Bokeh )
+7. Intelligent analysis of generic drugs with generic (Machine Learning )
+8. Intelligent drug analysis Generic with herbal medicines (Machine Learning )
 9. Intelligent analysis of medical tests only from the test and analysis sheet (_ORC_)
 10. Disease information bank 
 11. Analysis of the proposed drugs according to tests ( Deep Neural Network )
