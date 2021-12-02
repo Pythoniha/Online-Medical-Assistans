@@ -10,7 +10,9 @@
 در زبان فارسی به معنی ام یا مادر که ریشه در کلمه عربی اما یا ام دارد.
 امی یک نرم افزار تحت وب برای تحلیل اطلاعات پزشکی با بک اند جنگو نوشته شده و از الگوریتم های مختلف هوش مصنوعی برای تحزیه تحلیل انواع بیماری ها و نسخه های دارویی و تشخیص بیماری به پزشکان کمک می کند.</dl>
 
-
+  أُمِي: [أمّ]: illiterate, one who can not read and write.
+In Persian, it means um or mother, which is rooted in the Arabic word ama or um.
+Amy is a web-based software for analyzing medical information written by Back and Django and helps physicians use various artificial intelligence algorithms to analyze a variety of diseases and prescriptions and diagnose the disease.
 
 # ویژگی های نرم افزار:
 1.پرونده آنلاین پزشکی
@@ -25,3 +27,24 @@
 10.بانک اطالاعات بیماری ها
 11.تجزیه تحلیل ارایه دارو های پیشنهادی طبق آزمایشات
 12.تشخیص هوشمند بیماری ها با استفاده از جواب آزمایشات و علایم بالینی
+
+
+
+## Software Features:
+1.Online medical file 
+2. Possibility of doctor-patient communication 
+3. Specialized doctoring of physicians 
+4. Automatic classification of physicians in different specialties 
+5. Specialized patient monitoring 6. Drug information bank 
+7. Intelligent analysis of generic drugs with generic 
+8. Intelligent drug analysis Generic with herbal medicines 
+9. Intelligent analysis of medical tests only from the test and analysis sheet 
+10. Disease information bank 
+11. Analysis of the proposed drugs according to tests 
+12. Intelligent diagnosis of diseases using test results and symptoms Clinical
+
+
+
+در حال حاضر به دستور کار فرمای پروژه امکان درج کد های برنامه نویسی وجود ندارد
+
+Alert* : At present, it is not possible to enter programming codes according to the project client's agenda
