@@ -13,7 +13,7 @@
 
   أُمِي: [أمّ]: illiterate, one who can not read and write.
 In Persian, it means um or mother, which is rooted in the Arabic word ama or um.
-Amy is a web-based software for analyzing medical information written by Back and Django and helps physicians use various artificial intelligence algorithms to analyze a variety of diseases and prescriptions and diagnose the disease.
+Amy is a web-based software for analyzing medical information written by Back-End Django and Helps physicians use various artificial intelligence algorithms to analyze a variety of diseases and prescriptions and diagnose the disease.
 
 # ویژگی های نرم افزار:
 1. پرونده آنلاین پزشکی
@@ -25,7 +25,7 @@ Amy is a web-based software for analyzing medical information written by Back an
 7. آنالیز هوشمند دارو های ژنریک با ژنریک
 8. آنالیز هوشمند داروی ها ژنریک با دارو های گیاهی
 9.  آنالیز هوشمند آزمایشات پزشکی فقط از روی برگه آزمایش
-10. بانک اطالاعات بیماری ها
+10. بانک اطلاعات بیماری ها
 11. تجزیه تحلیل ارایه دارو های پیشنهادی طبق آزمایشات
 12. تشخیص هوشمند بیماری ها با استفاده از جواب آزمایشات و علایم بالینی
 
@@ -50,7 +50,7 @@ Amy is a web-based software for analyzing medical information written by Back an
 
 
 
-در حال حاضر به دستور کار فرمای پروژه امکان درج کد های برنامه نویسی وجود ندارد
+پیغام : در حال حاضر به دستور کار فرمای پروژه امکان درج کد های برنامه نویسی وجود ندارد
 
 Alert* : At present, it is not possible to enter programming codes according to the project client's agenda
 
