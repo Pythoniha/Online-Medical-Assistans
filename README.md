@@ -31,6 +31,10 @@ Amy is a web-based software for analyzing medical information written by Back an
 
 
 
+![The San Juan Mountains are beautiful!](https://github.com/Pythoniha/OMI/blob/main/front.jpg)
+
+
+
 ## Software Features:
 1. Online medical file 
 2. Possibility of doctor-patient communication 
@@ -49,3 +53,8 @@ Amy is a web-based software for analyzing medical information written by Back an
 در حال حاضر به دستور کار فرمای پروژه امکان درج کد های برنامه نویسی وجود ندارد
 
 Alert* : At present, it is not possible to enter programming codes according to the project client's agenda
+
+
+
+Developer Team = Pythoniha.ir
+تیم توسعه برنامه نویسی پایتون ( پایتونی ها)
